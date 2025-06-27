@@ -1,0 +1,15 @@
+{
+    "newUser":
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "addressStreet": "123 Test St",
+        "addressCity": "Testville",
+        "addressState": "TS",
+        "addressZip": "12345",
+        "phone": "1234567890",
+        "ssn": "123-45-6789",
+        "password": "Password123",
+        "confirmPw": "Password123"
+    }
+}
