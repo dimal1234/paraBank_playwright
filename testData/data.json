@@ -8,7 +8,8 @@
         "addressState": "TS",
         "addressZip": "12345",
         "phone": "1234567890",
-        "ssn": "123-45-6789",
+        "ssn": "123456789",
+        "userName": "johndoe",
         "password": "Password123",
         "confirmPw": "Password123"
     }
